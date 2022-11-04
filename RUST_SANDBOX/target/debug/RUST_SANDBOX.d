@@ -1,0 +1,1 @@
+C:\Users\condu\Desktop\WBA\ course\RustCrashCourse\RUST_SANDBOX\target\debug\RUST_SANDBOX.exe: C:\Users\condu\Desktop\WBA\ course\RustCrashCourse\RUST_SANDBOX\src\cli.rs C:\Users\condu\Desktop\WBA\ course\RustCrashCourse\RUST_SANDBOX\src\main.rs
