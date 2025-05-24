@@ -1,3 +1,8 @@
+⚠️ Note
+This repository was created as part of a guided learning path ~3 years ago.
+Some dependencies, CI workflows, or syntax may now be outdated and cause build/test failures.
+The goal of this project was educational: to understand CosmWasm contract structure and logic fundamentals.
+
 # Rust Crash Course
 
 This repository contains a series of exercises and examples completed during my initial learning phase of the Rust programming language.
